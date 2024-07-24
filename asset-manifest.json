@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/telegram-bot-frontend/static/css/main.21486f62.css",
-    "main.js": "/telegram-bot-frontend/static/js/main.2c113b5f.js",
-    "index.html": "/telegram-bot-frontend/index.html",
-    "main.21486f62.css.map": "/telegram-bot-frontend/static/css/main.21486f62.css.map",
-    "main.2c113b5f.js.map": "/telegram-bot-frontend/static/js/main.2c113b5f.js.map"
+    "main.css": "/telegram-bot-frontend/hii/static/css/main.21486f62.css",
+    "main.js": "/telegram-bot-frontend/hii/static/js/main.2c113b5f.js",
+    "index.html": "/telegram-bot-frontend/hii/index.html",
+    "main.21486f62.css.map": "/telegram-bot-frontend/hii/static/css/main.21486f62.css.map",
+    "main.2c113b5f.js.map": "/telegram-bot-frontend/hii/static/js/main.2c113b5f.js.map"
   },
   "entrypoints": [
     "static/css/main.21486f62.css",
